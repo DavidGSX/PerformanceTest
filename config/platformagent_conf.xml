@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="GBK" standalone="yes"?>
+<PlatFormAgentCfg version="1">
+    <EnvironmentInfo type="EnvironmentInfo">
+        <IDCFlag>1 </IDCFlag>
+        <RunningMode>2</RunningMode>
+    </EnvironmentInfo>
+    <UpdateServer type="UpdateServer">
+		<version>1.0.3</version>
+        <IDCServer>10.242.30.159:8508</IDCServer>
+        <IntranetServer>101.227.160.57:8508</IntranetServer>
+    </UpdateServer>
+    <AgentInfo type="AgentInfo">
+        <ProjectID>db22ddc60264679820bfa7eaeafb6f03</ProjectID>
+        <UserID>f651163cce3089aba06ec217768d204c</UserID>
+        <TestID>0 </TestID>
+        <AgentID>0 </AgentID>
+        <GroupID>0 </GroupID>
+        <ControlCenterId>0 </ControlCenterId>
+        <ReqServer type="ReqServer">
+            <IDCServer>api.wetest.oa.com</IDCServer>
+            <IntranetServer>wetest.qq.com</IntranetServer>
+        </ReqServer>
+    </AgentInfo>
+	<DataStatisticsReqServerCfg type="DataStatisticsReqServerCfg">
+		<IDCServer>127.0.0.1:8000</IDCServer>
+        <IntranetServer>127.0.0.1:8000</IntranetServer>
+    </DataStatisticsReqServerCfg>
+</PlatFormAgentCfg>

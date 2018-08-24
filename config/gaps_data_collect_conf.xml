@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="GBK" standalone="yes" ?>
+<DataCollectCfg  __version="1" >
+    <ServiceInfo  Name="0"  Version="V1R1"  TimeInterval="5"  RunTimeLength="36000"  TestIp="10.12.236.13"  />
+    <DataDestination  Destination="net"  LocalFileDir="/output"  IDCFlag="0"  IDCLogServer="tcp://10.12.236.13:8523?reuse=1"  IntranetLogServer="tcp://10.12.236.13:8523?reuse=1"  CSFile="/config/logsvrprotocol.tdr"  CSMsgMeta="DataProPkg"  />
+    <ReportServer  ReportServerIp="tcp://10.12.236.13:8523?reuse=1"  CSFile="/config/reportsvrprotocol.tdr"  CSMsgMeta="RsPkg"  />
+    <CollectProcs  ProcsNum="1"  >
+        <ProcsSet  Process="Robot"  />
+    </CollectProcs>
+    <DBInfo  DBSwitch="false"  DBTimeCycle="300"  DBIP="127.0.0.1"  DBPort="3306"  DBName="dbname"  DBUser="username"  DBPassword="password"  />
+    <TbusInfo  TbusSwitch="false"  TbusTimeCycle="60"  TbusMgrLocation="/usr/local/tsf4g_release/tools"  TbusKey="1689"  />
+    <UserCmdsInfo  CmdsNum="0"  CmdTimeCycle="10"  />
+    <TconndInfo  TsmIndex="410583828"  TconndSwitch="false"  TconndTimeCycle="10"  >
+        <DataConf  UriPath="tsm-data://0/helloworld_tsm:1.1.1.1/runtime_cumulate/default"  />
+        <DataConf  UriPath="tsm-data://0/helloworld_tsm:1.1.1.1/base/default"  />
+    </TconndInfo>
+</DataCollectCfg>

@@ -1,0 +1,3 @@
+date=2018-08-23 19:49:57|id=0|type=0|robotNumTotal=1|robotNumRun=1|robotNumStop=0|tps=3186.98|total=12732|totalSec=3|intervalTPS=3186.98|intervalTotal=12732|intervalSec=3
+date=2018-08-23 19:49:57|id=0|type=1|tps=3196.33|total=12731|err=70|errPer=0.55%|avgTimeMS=0|minMillisec=0|maxMillisec=81|90PerMillisec=10|intervalTPS=3196.33|intervalTotal=12731|intervalErr=70|intervalErrPer=0.55%|intervalAvgMS=0|intervalMinMillisec=0|intervalMaxMillisec=81|action=CTest
+date=2018-08-23 19:49:57|id=0|type=1|tps=1|total=1|err=0|errPer=0.00%|avgTimeMS=0|minMillisec=0|maxMillisec=0|90PerMillisec=10|intervalTPS=1|intervalTotal=1|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=0|intervalMinMillisec=0|intervalMaxMillisec=0|action=ConnectSvr

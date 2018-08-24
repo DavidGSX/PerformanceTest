@@ -1,0 +1,108 @@
+2018-08-23 23:13:41 info  - robot start with sigle model . 
+2018-08-23 23:13:41 info  - The value of gaps_isUpload in sprconfig.xml is false! Data will not be sent to Wetest!
+2018-08-23 23:13:41 info  - ----------performance config-------------------------
+2018-08-23 23:13:41 info  - robotNum=5000
+2018-08-23 23:13:41 info  - startIndex=1
+2018-08-23 23:13:41 info  - tranTotal=50
+2018-08-23 23:13:41 info  - robotPerSec=100
+2018-08-23 23:13:41 info  - -----------------------------------------------------
+2018-08-23 23:13:41 info  - ------------------ init robot----------------------
+2018-08-23 23:13:41 info  - robotScene=defaultScene
+2018-08-23 23:13:41 info  - DataUpload thread config not start! 
+2018-08-23 23:13:46 info  - -----------------stat data---------------
+2018-08-23 23:13:46 info  - date=2018-08-23 23:13:46|id=0|type=0|robotNumTotal=5000|robotNumRun=51|robotNumStop=445|tps=4810.55|total=23971|totalSec=4|intervalTPS=4810.55|intervalTotal=23971|intervalSec=4
+2018-08-23 23:13:46 info  - date=2018-08-23 23:13:46|id=0|type=1|tps=4721.64|total=23476|err=0|errPer=0.00%|avgTimeMS=10|minMillisec=0|maxMillisec=12|90PerMillisec=10|intervalTPS=4721.64|intervalTotal=23476|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=10|intervalMinMillisec=0|intervalMaxMillisec=12|action=CTest
+2018-08-23 23:13:46 info  - date=2018-08-23 23:13:46|id=0|type=1|tps=99.41|total=495|err=0|errPer=0.00%|avgTimeMS=0|minMillisec=0|maxMillisec=1|90PerMillisec=10|intervalTPS=99.41|intervalTotal=495|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=0|intervalMinMillisec=0|intervalMaxMillisec=1|action=ConnectSvr
+2018-08-23 23:13:46 info  - 
+2018-08-23 23:13:46 info  - 
+2018-08-23 23:13:46 info  - 
+2018-08-23 23:13:51 info  - -----------------stat data---------------
+2018-08-23 23:13:51 info  - date=2018-08-23 23:13:51|id=1|type=0|robotNumTotal=5000|robotNumRun=51|robotNumStop=941|tps=4933.65|total=49302|totalSec=9|intervalTPS=5066.2|intervalTotal=25331|intervalSec=5
+2018-08-23 23:13:51 info  - date=2018-08-23 23:13:51|id=1|type=1|tps=4839.71|total=48310|err=0|errPer=0.00%|avgTimeMS=10|minMillisec=0|maxMillisec=13|90PerMillisec=10|intervalTPS=4966.8|intervalTotal=24834|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=10|intervalMinMillisec=0|intervalMaxMillisec=13|action=CTest
+2018-08-23 23:13:51 info  - date=2018-08-23 23:13:51|id=1|type=1|tps=99.29|total=992|err=0|errPer=0.00%|avgTimeMS=0|minMillisec=0|maxMillisec=1|90PerMillisec=10|intervalTPS=99.47|intervalTotal=497|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=0|intervalMinMillisec=0|intervalMaxMillisec=1|action=ConnectSvr
+2018-08-23 23:13:51 info  - 
+2018-08-23 23:13:51 info  - 
+2018-08-23 23:13:51 info  - 
+2018-08-23 23:13:56 info  - -----------------stat data---------------
+2018-08-23 23:13:56 info  - date=2018-08-23 23:13:56|id=2|type=0|robotNumTotal=5000|robotNumRun=50|robotNumStop=1438|tps=4975.92|total=74614|totalSec=14|intervalTPS=5063.41|intervalTotal=25312|intervalSec=4
+2018-08-23 23:13:56 info  - date=2018-08-23 23:13:56|id=2|type=1|tps=4880.27|total=73126|err=0|errPer=0.00%|avgTimeMS=10|minMillisec=0|maxMillisec=14|90PerMillisec=10|intervalTPS=4964.19|intervalTotal=24816|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=10|intervalMinMillisec=0|intervalMaxMillisec=14|action=CTest
+2018-08-23 23:13:56 info  - date=2018-08-23 23:13:56|id=2|type=1|tps=99.26|total=1488|err=0|errPer=0.00%|avgTimeMS=0|minMillisec=0|maxMillisec=1|90PerMillisec=10|intervalTPS=99.39|intervalTotal=496|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=0|intervalMinMillisec=0|intervalMaxMillisec=1|action=ConnectSvr
+2018-08-23 23:13:56 info  - 
+2018-08-23 23:13:56 info  - 
+2018-08-23 23:13:56 info  - 
+2018-08-23 23:14:01 info  - -----------------stat data---------------
+2018-08-23 23:14:01 info  - date=2018-08-23 23:14:01|id=3|type=0|robotNumTotal=5000|robotNumRun=50|robotNumStop=1934|tps=4995.99|total=99910|totalSec=19|intervalTPS=5061.22|intervalTotal=25296|intervalSec=4
+2018-08-23 23:14:01 info  - date=2018-08-23 23:14:01|id=3|type=1|tps=4899.48|total=97926|err=0|errPer=0.00%|avgTimeMS=10|minMillisec=0|maxMillisec=14|90PerMillisec=10|intervalTPS=4963.97|intervalTotal=24800|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=10|intervalMinMillisec=0|intervalMaxMillisec=13|action=CTest
+2018-08-23 23:14:01 info  - date=2018-08-23 23:14:01|id=3|type=1|tps=99.22|total=1984|err=0|errPer=0.00%|avgTimeMS=0|minMillisec=0|maxMillisec=1|90PerMillisec=10|intervalTPS=99.29|intervalTotal=496|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=0|intervalMinMillisec=0|intervalMaxMillisec=1|action=ConnectSvr
+2018-08-23 23:14:01 info  - 
+2018-08-23 23:14:01 info  - 
+2018-08-23 23:14:01 info  - 
+2018-08-23 23:14:06 info  - -----------------stat data---------------
+2018-08-23 23:14:06 info  - date=2018-08-23 23:14:06|id=4|type=0|robotNumTotal=5000|robotNumRun=50|robotNumStop=2430|tps=5008.56|total=125209|totalSec=24|intervalTPS=5065.87|intervalTotal=25299|intervalSec=4
+2018-08-23 23:14:06 info  - date=2018-08-23 23:14:06|id=4|type=1|tps=4911.51|total=122729|err=0|errPer=0.00%|avgTimeMS=10|minMillisec=0|maxMillisec=14|90PerMillisec=10|intervalTPS=4967.55|intervalTotal=24803|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=10|intervalMinMillisec=0|intervalMaxMillisec=14|action=CTest
+2018-08-23 23:14:06 info  - date=2018-08-23 23:14:06|id=4|type=1|tps=99.21|total=2480|err=0|errPer=0.00%|avgTimeMS=0|minMillisec=0|maxMillisec=1|90PerMillisec=10|intervalTPS=99.37|intervalTotal=496|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=0|intervalMinMillisec=0|intervalMaxMillisec=1|action=ConnectSvr
+2018-08-23 23:14:06 info  - 
+2018-08-23 23:14:06 info  - 
+2018-08-23 23:14:06 info  - 
+2018-08-23 23:14:11 info  - -----------------stat data---------------
+2018-08-23 23:14:11 info  - date=2018-08-23 23:14:11|id=5|type=0|robotNumTotal=5000|robotNumRun=50|robotNumStop=2927|tps=5017.46|total=150554|totalSec=30|intervalTPS=5069|intervalTotal=25345|intervalSec=5
+2018-08-23 23:14:11 info  - date=2018-08-23 23:14:11|id=5|type=1|tps=4920.05|total=147577|err=0|errPer=0.00%|avgTimeMS=10|minMillisec=0|maxMillisec=14|90PerMillisec=10|intervalTPS=4970.59|intervalTotal=24848|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=10|intervalMinMillisec=0|intervalMaxMillisec=13|action=CTest
+2018-08-23 23:14:11 info  - date=2018-08-23 23:14:11|id=5|type=1|tps=99.23|total=2977|err=0|errPer=0.00%|avgTimeMS=0|minMillisec=0|maxMillisec=1|90PerMillisec=10|intervalTPS=99.51|intervalTotal=497|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=0|intervalMinMillisec=0|intervalMaxMillisec=1|action=ConnectSvr
+2018-08-23 23:14:11 info  - 
+2018-08-23 23:14:11 info  - 
+2018-08-23 23:14:11 info  - 
+2018-08-23 23:14:16 info  - -----------------stat data---------------
+2018-08-23 23:14:16 info  - date=2018-08-23 23:14:16|id=6|type=0|robotNumTotal=5000|robotNumRun=51|robotNumStop=3423|tps=5024.19|total=175892|totalSec=35|intervalTPS=5068.61|intervalTotal=25338|intervalSec=4
+2018-08-23 23:14:16 info  - date=2018-08-23 23:14:16|id=6|type=1|tps=4926.51|total=172418|err=0|errPer=0.00%|avgTimeMS=10|minMillisec=0|maxMillisec=14|90PerMillisec=10|intervalTPS=4970.18|intervalTotal=24841|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=10|intervalMinMillisec=0|intervalMaxMillisec=12|action=CTest
+2018-08-23 23:14:16 info  - date=2018-08-23 23:14:16|id=6|type=1|tps=99.24|total=3474|err=0|errPer=0.00%|avgTimeMS=0|minMillisec=0|maxMillisec=1|90PerMillisec=10|intervalTPS=99.49|intervalTotal=497|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=0|intervalMinMillisec=0|intervalMaxMillisec=1|action=ConnectSvr
+2018-08-23 23:14:16 info  - 
+2018-08-23 23:14:16 info  - 
+2018-08-23 23:14:16 info  - 
+2018-08-23 23:14:21 info  - -----------------stat data---------------
+2018-08-23 23:14:21 info  - date=2018-08-23 23:14:21|id=7|type=0|robotNumTotal=5000|robotNumRun=49|robotNumStop=3921|tps=5028.79|total=201197|totalSec=40|intervalTPS=5066.06|intervalTotal=25305|intervalSec=4
+2018-08-23 23:14:21 info  - date=2018-08-23 23:14:21|id=7|type=1|tps=4930.92|total=197227|err=0|errPer=0.00%|avgTimeMS=10|minMillisec=0|maxMillisec=14|90PerMillisec=10|intervalTPS=4966.76|intervalTotal=24809|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=10|intervalMinMillisec=0|intervalMaxMillisec=12|action=CTest
+2018-08-23 23:14:21 info  - date=2018-08-23 23:14:21|id=7|type=1|tps=99.24|total=3970|err=0|errPer=0.00%|avgTimeMS=0|minMillisec=0|maxMillisec=1|90PerMillisec=10|intervalTPS=99.41|intervalTotal=496|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=0|intervalMinMillisec=0|intervalMaxMillisec=1|action=ConnectSvr
+2018-08-23 23:14:21 info  - 
+2018-08-23 23:14:21 info  - 
+2018-08-23 23:14:21 info  - 
+2018-08-23 23:14:26 info  - -----------------stat data---------------
+2018-08-23 23:14:26 info  - date=2018-08-23 23:14:26|id=8|type=0|robotNumTotal=5000|robotNumRun=50|robotNumStop=4417|tps=5032.52|total=226544|totalSec=45|intervalTPS=5069.39|intervalTotal=25347|intervalSec=5
+2018-08-23 23:14:26 info  - date=2018-08-23 23:14:26|id=8|type=1|tps=4934.49|total=222077|err=0|errPer=0.00%|avgTimeMS=10|minMillisec=0|maxMillisec=14|90PerMillisec=10|intervalTPS=4970|intervalTotal=24850|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=10|intervalMinMillisec=0|intervalMaxMillisec=12|action=CTest
+2018-08-23 23:14:26 info  - date=2018-08-23 23:14:26|id=8|type=1|tps=99.23|total=4467|err=0|errPer=0.00%|avgTimeMS=0|minMillisec=0|maxMillisec=1|90PerMillisec=10|intervalTPS=99.43|intervalTotal=497|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=0|intervalMinMillisec=0|intervalMaxMillisec=1|action=ConnectSvr
+2018-08-23 23:14:26 info  - 
+2018-08-23 23:14:26 info  - 
+2018-08-23 23:14:26 info  - 
+2018-08-23 23:14:31 info  - -----------------stat data---------------
+2018-08-23 23:14:31 info  - date=2018-08-23 23:14:31|id=9|type=0|robotNumTotal=5000|robotNumRun=50|robotNumStop=4913|tps=5035.28|total=251845|totalSec=50|intervalTPS=5068.3|intervalTotal=25301|intervalSec=4
+2018-08-23 23:14:31 info  - date=2018-08-23 23:14:31|id=9|type=1|tps=4937.14|total=246882|err=0|errPer=0.00%|avgTimeMS=10|minMillisec=0|maxMillisec=14|90PerMillisec=10|intervalTPS=4969.94|intervalTotal=24805|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=10|intervalMinMillisec=0|intervalMaxMillisec=12|action=CTest
+2018-08-23 23:14:31 info  - date=2018-08-23 23:14:31|id=9|type=1|tps=99.23|total=4963|err=0|errPer=0.00%|avgTimeMS=0|minMillisec=0|maxMillisec=1|90PerMillisec=10|intervalTPS=99.41|intervalTotal=496|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=0|intervalMinMillisec=0|intervalMaxMillisec=1|action=ConnectSvr
+2018-08-23 23:14:31 info  - 
+2018-08-23 23:14:31 info  - 
+2018-08-23 23:14:31 info  - 
+2018-08-23 23:14:36 info  - -----------------stat data---------------
+2018-08-23 23:14:36 info  - date=2018-08-23 23:14:36|id=10|type=0|robotNumTotal=5000|robotNumRun=0|robotNumStop=5000|tps=5010.41|total=255000|totalSec=50|intervalTPS=3626.43|intervalTotal=3155|intervalSec=0
+2018-08-23 23:14:36 info  - date=2018-08-23 23:14:36|id=10|type=1|tps=4913.23|total=250000|err=0|errPer=0.00%|avgTimeMS=10|minMillisec=0|maxMillisec=14|90PerMillisec=10|intervalTPS=3583.9|intervalTotal=3118|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=10|intervalMinMillisec=2|intervalMaxMillisec=12|action=CTest
+2018-08-23 23:14:36 info  - date=2018-08-23 23:14:36|id=10|type=1|tps=99.23|total=5000|err=0|errPer=0.00%|avgTimeMS=0|minMillisec=0|maxMillisec=1|90PerMillisec=10|intervalTPS=102.2|intervalTotal=37|intervalErr=0|intervalErrPer=0.00%|intervalAvgMS=0|intervalMinMillisec=0|intervalMaxMillisec=0|action=ConnectSvr
+2018-08-23 23:14:36 info  - 
+2018-08-23 23:14:36 info  - 
+2018-08-23 23:14:36 info  - 
+2018-08-23 23:14:41 info  - -----------------stat data---------------
+2018-08-23 23:14:41 info  - date=2018-08-23 23:14:41|id=11|type=0|robotNumTotal=5000|robotNumRun=0|robotNumStop=5000|tps=5010.41|total=255000|totalSec=50|intervalTPS=0|intervalTotal=0|intervalSec=0
+2018-08-23 23:14:41 info  - date=2018-08-23 23:14:41|id=11|type=1|tps=4913.23|total=250000|err=0|errPer=0.00%|avgTimeMS=10|minMillisec=0|maxMillisec=14|90PerMillisec=10|intervalTPS=0|intervalTotal=0|intervalErr=0|intervalErrPer=0.0%|intervalAvgMS=0|intervalMinMillisec=0|intervalMaxMillisec=0|action=CTest
+2018-08-23 23:14:41 info  - date=2018-08-23 23:14:41|id=11|type=1|tps=99.23|total=5000|err=0|errPer=0.00%|avgTimeMS=0|minMillisec=0|maxMillisec=1|90PerMillisec=10|intervalTPS=0|intervalTotal=0|intervalErr=0|intervalErrPer=0.0%|intervalAvgMS=0|intervalMinMillisec=0|intervalMaxMillisec=0|action=ConnectSvr
+2018-08-23 23:14:41 info  - 
+2018-08-23 23:14:41 info  - 
+2018-08-23 23:14:41 info  - 
+2018-08-23 23:14:41 info  - 
+2018-08-23 23:14:41 info  - all robot have stop !
+2018-08-23 23:14:41 info  - state thread  have stop !
+2018-08-23 23:14:41 info  - upload thread  have stop !
+2018-08-23 23:14:49 info  - statDataUpload  have stopped ,destory ! 
+2018-08-23 23:14:49 info  - destory TpsControler !
+2018-08-23 23:14:49 info  - stat   stop  completely,destory stat  
+2018-08-23 23:14:49 info  -   test   stop  completely , destory test 
+2018-08-23 23:14:49 info  - ---------Performance Test robot main thread stop!  you can restart robot  ! ----------------
+2018-08-23 23:14:49 info  - destory NetworkMgr::p_network
+2018-08-23 23:14:49 info  - destory MessageServiceTool::pMsgserviceTool
+2018-08-23 23:14:49 info  - destory MessageMgr::messageMgr
+2018-08-23 23:14:49 info  - destory TdrData::instance
