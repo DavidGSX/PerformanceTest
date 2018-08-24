@@ -53,8 +53,8 @@ public class NioServer {
         SocketChannel socketChannel = serverSocketChannel.accept();
 
         if (socketChannel != null) {
-            System.err.println("接收到一个连接，对端IP为："+socketChannel.socket().getInetAddress());
-        }
+        	System.out.println("接收一个连接，对端IP为："+socketChannel.socket().getInetAddress()+"端口为："+socketChannel.socket().getPort());
+	}
         
         socketChannel.configureBlocking(false);
         socketChannel.register(selector, SelectionKey.OP_READ);
@@ -70,10 +70,13 @@ public class NioServer {
 
         try {
 			while(socketChannel.read(newBuffer)<=0) {
+				System.out.println("关闭一个连接，对端IP为："+socketChannel.socket().getInetAddress()+"端口为："+socketChannel.socket().getPort());
+				socketChannel.close();
 			    return;
 			}
 		} catch (IOException e) {
-			e.printStackTrace();
+			System.out.println("关闭连接，对端IP为："+socketChannel.socket().getInetAddress()+"端口为："+socketChannel.socket().getPort());
+			socketChannel.close();
 		}
 
         newBuffer.flip();
